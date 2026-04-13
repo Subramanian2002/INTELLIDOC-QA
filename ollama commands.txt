@@ -1,0 +1,2 @@
+To kill ollama = "ollama stop phi3:mini"
+to start again = "ollama run phi3:mini"
