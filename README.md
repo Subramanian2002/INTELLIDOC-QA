@@ -12,26 +12,47 @@ It combines semantic search with a local Large Language Model (LLM) to ensure pr
 
 ---
 
-### 🏠 Home Screen  
+### 🏠 Home Screen 
+
 ![Home](static/images/home.png)
 
-### 🔐 Login Screen  
+---
+
+### 🔐 Login Screen 
+
 ![Login](static/images/login.png)
 
-### 📝 Signup Screen  
+---
+
+### 📝 Signup Screen 
+
 ![Signup](static/images/signup.png)
 
-### 📄 File Upload  
+---
+
+### 📄 File Upload 
+
 ![Upload](static/images/upload.png)
 
-### 💬 Chat Interface  
+---
+
+### 💬 Chat Interface 
+
 ![Chat](static/images/chat.png)
 
+---
+
 ### 🤖 AI Response  
+
 ![Response](static/images/response.png)
 
-### 📂 Sidebar (Multi Chat)  
+---
+
+### 📂 Sidebar (Multi Chat) 
+
 ![Sidebar](static/images/sidebar.png)
+
+---
 
 ### ✏️ Rename & Delete Chat  
 ![Manage Chat](static/images/rename&delete.png)
